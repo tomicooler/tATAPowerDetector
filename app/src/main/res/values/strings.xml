@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Power Detector</string>
+    <string name="preferences_title_pair_phone_number">Phone Number</string>
+    <string name="preferences_summary_pair_phone_number">Phone Number to call.</string>
+    <string name="preferences_dialog_title_pair_phone_number">Enter the phone number to call</string>
+    <string name="preferences_title_power_connected">Call at power connected</string>
+    <string name="preferences_summary_power_connected">Call the phone when charging starts.</string>
+    <string name="preferences_title_power_disconnected">Call at power disconnected</string>
+    <string name="preferences_summary_power_disconnected">Call the phone when charging stops.</string>
+</resources>

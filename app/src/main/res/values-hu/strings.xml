@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Power Detector</string>
+    <string name="preferences_title_pair_phone_number">Telefonszám</string>
+    <string name="preferences_summary_pair_phone_number">A telefonszám megadása.</string>
+    <string name="preferences_dialog_title_pair_phone_number">Add meg a másik készülék számát</string>
+    <string name="preferences_title_power_connected">Töltés detektálás</string>
+    <string name="preferences_summary_power_connected">Hívás ha elkezd tölteni a telefon.</string>
+    <string name="preferences_title_power_disconnected">Töltés megszakadás detektálás</string>
+    <string name="preferences_summary_power_disconnected">Hívás ha megszakad a töltés.</string>
+</resources>

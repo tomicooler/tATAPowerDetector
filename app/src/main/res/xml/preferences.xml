@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:key="pair_phone_number"
+        android:title="@string/preferences_title_pair_phone_number"
+        android:summary="@string/preferences_summary_pair_phone_number"
+        android:dialogTitle="@string/preferences_dialog_title_pair_phone_number"
+        android:inputType="phone" />
+
+    <CheckBoxPreference
+        android:key="power_connected"
+        android:title="@string/preferences_title_power_connected"
+        android:summary="@string/preferences_summary_power_connected"
+        android:defaultValue="false" />
+
+    <CheckBoxPreference
+        android:key="power_disconnected"
+        android:title="@string/preferences_title_power_disconnected"
+        android:summary="@string/preferences_summary_power_disconnected"
+        android:defaultValue="false" />
+
+</PreferenceScreen>
